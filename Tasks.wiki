@@ -1,0 +1,61 @@
+- Outil nocode
+- pretzi powtoon
+- php recipes
+certificat ssl /sso et GPO
+Presentation pretzi et powtoon
+orbeon formulaire RAD
+
+Grokking Algorithms: An illustrated guide for programmers and other curious people (downloaded)
+ nadi sodhana (pranayama Michel Vaujour)
+Machine e-learning to investigate
+
+
+
+
+quickly application to investigate, filemaker (windows or mac  only not linux version!!)
+
+
+Ellon musk et head first sql à lire to keep crawler php
+
+
+video programming stallman for exemple
+https://www.youtube.com/watch?v=oWitn9hX9dM
+
+https://openclassrooms.com/courses/developpez-votre-site-web-avec-le-framework-symfony/manipuler-ses-entites-avec-doctrine2-1
+
+https://www.youtube.com/watch?v=u7Ia8nuvQys   => sharepoint creation formulaire
+https://drive.google.com/drive/folders/1uCejSkr1utxwV90ZsaZJHEkAhSlhTCTX?usp=sharing
+
+
+phpunit et formation symfony pour cesar et JFQ
+
+canvashtml5
+
+
+trajet st michel marseille pour la corse, WAZE doesn't work without data, 
+
+
+
+Talend tutorial
+starcraft
+
+http://romain-lebreton.developpez.com/tutoriels/programmation-web-html-css/?page=td1-partie-2-moins-les-bases-du-css-un-langage-de-mise-en-page#LII-A
+http://eleven-labs.developpez.com/tutoriels/javascript/mise-en-place-flux-infini-symfony-react/
+
+
+
+
+https://askubuntu.com/questions/731891/not-able-to-install-anything-and-update-on-ubuntu-14-10
+
+
+I did a complete new etc/apt/sources.list on a web site for the version 16.04
+
+and did a apt-get install and apt-get upgrade...it worked
+
+
+
+To resize the / partition , because the first install i did it wrong
+I wiped the linux partition using windows 10 partition tool, then reinstall and gave the right size for the / partition...
+santa tracker : programming games
+
+

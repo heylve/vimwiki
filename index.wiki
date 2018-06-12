@@ -1,0 +1,9 @@
+= My Knowledge base =
+	*[[Tasks]] -- Things to do
+	* [[tools]] -- my tools
+	* [[phone_number]]
+	* [[thoughts]]
+	* [[logbook]]
+	*
+	
+	 

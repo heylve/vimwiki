@@ -1,0 +1,8 @@
+
+<b>Tue Jun 12 15:55:11     2018</b>
+Accès sur nas docker du nextcloud, qui stocke dans base sqlite
+export http_proxy=";..cnamts.fr:3328" pour install du sqlite client
+accès à la base sqlite dans /var/www/html/data/owncloud.db
+pas facile de sy' retrouver dans les tables, mais trouvé le fameux mp4 qui est accessible dans l'interface web dans une des tables
+Réunion pour pièces justificatives 16h30
+
