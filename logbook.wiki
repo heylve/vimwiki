@@ -1,8 +1,3 @@
-
-<b>Tue Jun 12 15:55:11     2018</b>
-Accès sur nas docker du nextcloud, qui stocke dans base sqlite
-export http_proxy=";..cnamts.fr:3328" pour install du sqlite client
-accès à la base sqlite dans /var/www/html/data/owncloud.db
-pas facile de sy' retrouver dans les tables, mais trouvé le fameux mp4 qui est accessible dans l'interface web dans une des tables
-Réunion pour pièces justificatives 16h30
-
+VimCrypt~01!S»F…ZÔ1ƒÍœ´8Ž~ÚœRU§”æ­O«ŽÒ¤NP@‘Œ.bQÏ~C!?8Ÿ“ .ß
+Le !÷–åË‹¶S@4ÏÑrþùvü|yìŽó“NIÛ7´ŽŒ!×äŠ$ÃªçädZÂš=Ì,j.t.HÖ®„wué‰Ì©¤öl2”\gÙâ3±ÌßçƒŸ¨Ð§ËóÁpî@‡¼Od 9cìFÃcØ«–\'/dê†â&[U¶çõYøêþÒi1óXoLš&€j—f·x ù	&dÇúzÅJ”¨Bè17çÖL’'òÍ×Cý¬E*_ãóS8à{Ò9¿¦	=#|÷ `Ò†¢ÊŒPüÌ	Ø0rËfØg\šõ>óMQNrí±»Å ä¦J.û%t“´4ªû/b'|úQÜ’?<™½’Ê\gˆK×jf4ì2	PÛKqRâ‰<¶còætÉªw25eè¥œÝõkÅVÇ¶}MÉREM4LØ¶@^{54Ä*±ÌÊÀD¡Xñ÷l6|Š…žk¼~¦“í!óAèÀ!U®kB™KZ)°…£D”45‰ìõ-²Š‡8‡jU|(ÑøÍ7‹0[Ü1íçØpTî2ØÌ¢ìk›÷Š¸ú†«#¬ÏÒ]³Êj’gøó^C×K“*­Ýåå€Üè|çÛ¼™utŸå/w¶é=Õ?\x¥+±²j¨‹”ÿFÚ™:Úñ<|6Ç
+£G×›UÍ»ÓÈ¼y%0ÄÂ¤nâÔK×ü©ÑanÆõ(ýÐ$8¸ºeÁªÕ¡¬Êrè4ŠW²ÍœCƒnØ*sGþ‹Õ}éµéädG3–¨Ç$H†<Y6	ÃØÒk¼ýÔç‡^2f„=F‰Ä¹ëfY.S€r<!y¼œ²^¡$Ò•ƒÑéj„‚g‹tò0Ø rF9ïˆ¼×ÚKKˆ
